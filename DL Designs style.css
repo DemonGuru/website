@@ -6,7 +6,7 @@
             background: url("cat.jpg");
             background-repeat: no-repeat;
             background-attachment: fixed;
-            background-size: 75% 100%;
+            background-size: 100% 100%;
           
         }
         header {
