@@ -20,7 +20,7 @@
             margin: 20px auto;
             padding: 0 20px;
         }
-        .my-button 
+        my-button 
 	    {
             background-color: black; 
             border: none;
@@ -39,11 +39,11 @@
         }
         .header
         {
-            color: aqua;
+            color: rgb(255, 217, 0);
         }
         p 
         {
-            color: royalblue;
+            color: rgb(65, 201, 225);
             line-height: 4.0;
             padding: 10px 0;
         }
@@ -51,4 +51,12 @@
         {
             float: left;
             margin-right: 10px; 
+        }
+        colur1
+        {
+            color: lime;
+        }
+        ✾ 
+        {
+            color: blue;
         }
