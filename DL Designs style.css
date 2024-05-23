@@ -40,6 +40,9 @@
         .header
         {
             color: rgb(255, 217, 0);
+            font-family:Georgia, 'Times New Roman', Times, serif;
+            text-align: center;
+            justify-content: center;
         }
         p 
         {
@@ -54,9 +57,16 @@
         }
         colur1
         {
+            text-align: center;
             color: lime;
         }
-        ✾ 
+        h2
         {
             color: blue;
+            text-align: center;
+        }
+        h3
+        {
+            text-align: center;
+            color: rgb(231, 13, 158);
         }
