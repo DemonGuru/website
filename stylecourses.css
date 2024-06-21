@@ -1,3 +1,14 @@
+body {
+    font-family: Slovic, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: cyan; 
+    background: url("about.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%; 
+    box-sizing: border-box;
+}
 .navbar {
     background-color: #333;
     color: white;
